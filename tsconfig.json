@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/(root)/cart/payment/loading.js", "app/(root)/cart/payment/loading.js", "app/(root)/catalog/loading.js", "app/(root)/cart/loading.js", "app/(root)/about-us/loading.js", "app/(root)/all-products/loading.js", "app/(root)/profile/favorites/loading.js", "app/(root)/profile/orders/loading.js", "app/(root)/profile/reviews/loading.js", "app/(root)/profile/loading.js", "app/(root)/search/loading.js", "app/loading.js", "app/(root)/not-found.jsound.jsound.js"],
   "exclude": ["node_modules"]
 }
